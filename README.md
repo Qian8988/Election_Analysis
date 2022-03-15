@@ -1,6 +1,6 @@
 # Election_Analysis
 
-Module 2 Challenge  - Qian Dong <just4qd@gmail.com>
+Module 2 Challenge  
 
 ---
 
